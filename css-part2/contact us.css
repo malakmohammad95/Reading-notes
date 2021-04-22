@@ -1,0 +1,30 @@
+body{
+    background-color:gray;
+  
+}
+h2{color: yellow;
+   text-decoration: underline;
+ 
+
+}
+#m1{ 
+    float: right;
+  justify-content: space-between;
+    margin-inline-end:100px;
+    
+     grid-template-rows:  1fr 2fr ; 
+top: 100px;
+}
+
+h4{
+    background-color: rgba(10, 233, 103, 0.787);
+    border: 5px solid rgb(0, 125, 197);
+    font: 1.3em sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.part1{
+    display: flex;
+padding-right: 20%;
+}
